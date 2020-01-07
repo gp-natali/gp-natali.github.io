@@ -1,16 +1,25 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle:
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! My name is Natalia and I'm a software test engineer. I like fixing things before they are broken. Being curious about many things, I try to keep my focus only on a few at a time. Below is a snapshot of what they are currently.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Here is some of my recent work
 
-What else do you need?
+Publications for TrueCar tech blog on building the test automation for CI/CD
+https://medium.com/driven-by-code/test-automation-in-ci-cd-part-1-bcd9e4e2564d
+https://medium.com/driven-by-code/test-automation-in-ci-cd-part-2-1812347b214
 
-### my history
+### Currently learning
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+React with Wes Bos https://reactforbeginners.com/ and https://advancedreact.com/
+
+### My favorite recent reads on software development and testing
+
+Humans vs Computers by Gojko Adzic[https://www.goodreads.com/book/show/36118272-humans-vs-computers] - fun collection of software design and implementation errors and the impact they could have on someone's lives.
+
+By the way, when I'm not in front of a computer or reading a book, I'm either running somewhere on the trails, or doing some fine joga. Or travelling. Or camping. Or mountain biking. Or cooking! Anyways, you got the idea :)
+
+Thanks for checking out my profile!
