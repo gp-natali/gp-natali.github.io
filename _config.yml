@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Some blog
+title: My website
 
 # Short description of your site
 description: Personal blog
@@ -24,7 +24,6 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-  # Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -60,7 +59,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Natalia
+  name: Natalia Zarichna
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -68,8 +67,8 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: false
-  email: ""
-  facebook: nataliya.zarichna
+  email: "someone@example.com"
+  facebook: deanattali
   github: gp-natali
   # twitter: daattali
 #  reddit: yourname
@@ -156,7 +155,7 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Los_Angeles"
+timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
